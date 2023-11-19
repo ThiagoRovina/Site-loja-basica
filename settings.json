@@ -1,0 +1,17 @@
+{
+    "workbench.colorTheme": "Darcula",
+    "CodeGPT.query.language": "Portuguese",
+    "tabnine.experimentalAutoImports": true,
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "C_Cpp.default.compilerPath": "C:\\MinGW\\bin\\gcc.exe",
+    "clangd.path": "c:\\Users\\nay_n\\AppData\\Roaming\\Code\\User\\globalStorage\\llvm-vs-code-extensions.vscode-clangd\\install\\16.0.2\\clangd_16.0.2\\bin\\clangd.exe",
+    "livePreview.customExternalBrowser": "Chrome",
+    "vsicons.dontShowNewVersionMessage": true,
+    "workbench.iconTheme": null,
+    "livePreview.notifyOnOpenLooseFile": false,
+    "workbench.editor.empty.hint": "hidden",
+    "window.zoomLevel": -1
+}
